@@ -112,7 +112,6 @@ Copy code
 Contributing
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
   
-License
-  This project is licensed under the MIT License.
+
   
 Feel free to customize and modify the content as per your project's requirements.
